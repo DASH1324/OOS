@@ -2,6 +2,6 @@
 
 - [x] Initialize Git repository: `git init`
 - [x] Add remote origin: `git remote add origin https://github.com/DASH1324/OOS.git`
-- [ ] Stage all files: `git add .`
-- [ ] Commit changes: `git commit -m "Initial commit"`
+- [x] Stage all files: `git add .`
+- [x] Commit changes: `git commit -m "Initial commit"`
 - [ ] Push to GitHub: `git push -u origin main`
